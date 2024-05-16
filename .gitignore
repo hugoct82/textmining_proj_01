@@ -1,3 +1,5 @@
 /.env_t01
 /credenciales
 /install.sh
+chrome/
+chromedriver/
