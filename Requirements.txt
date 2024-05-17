@@ -10,8 +10,9 @@ jupyter
 jupyterlab
 webdriver-manager
 feedparser
-#Google API
-google-api-python-client
+google-api-python-client #Google API
 google-auth-httplib2
-google-auth-oauthlib
-#Fin Google API
+google-auth-oauthlib #Fin Google API
+nltk
+wordcloud
+matplotlib
